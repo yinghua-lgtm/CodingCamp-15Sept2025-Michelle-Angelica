@@ -152,12 +152,6 @@ body {
   color: #2b1d1d;
 }
 
-.image img {
-  margin-top: 5rem;
-  flex: 1 1 3rem;
-  padding: 2rem 2rem;
-}
-
 /* Skills */
 .skills {
   padding: 5rem 7% 1rem;
