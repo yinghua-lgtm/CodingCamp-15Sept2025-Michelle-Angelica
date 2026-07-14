@@ -152,7 +152,7 @@ body {
   color: #2b1d1d;
 }
 
-.about .image {
+.about .image img {
   margin-top: 5rem;
   flex: 1 1 3rem;
   padding: 2 2 rem;
